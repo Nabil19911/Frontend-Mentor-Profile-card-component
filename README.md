@@ -49,7 +49,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@nabil19911](https://www.frontendmentor.io/profile/Nabil19911)
 
 ## Acknowledgments
 
